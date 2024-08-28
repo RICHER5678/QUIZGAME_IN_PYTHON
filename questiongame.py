@@ -1,7 +1,7 @@
 print("welcome to my game!","please read instructions before starting")
 score=0
 response = input("Do you want to play this game? ").lower()
-
+hello=0
 if(response != "yes"):
     quit()
 else:
